@@ -13,6 +13,7 @@ export default ({ env }) => ({
       },
     },
   },
+  logger: console.log
 });
 
 
